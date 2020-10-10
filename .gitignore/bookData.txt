@@ -1,0 +1,7 @@
+1226 1990 300 1984 George_Orwell
+12 1940 600 The_Lord_of_the_Rings R_R_Tolkien
+11 1950 596 The_Great_Gatsby Scott_Fitzgerald
+15 1962 632 Lord_of_the_Flies William_Golding
+16 1962 693 Animal_Farm George_Orwell
+11 1936 165 Gone_with_the_Wind Margaret_Mitchell
+912 1956 265 Lolita Vladimir_Nabokov

@@ -1,0 +1,50 @@
+2020-10-10 02:03:07 INFO  Main:37 - Start the program.
+2020-10-10 02:03:07 INFO  Main:42 - Read: bookData.txt
+2020-10-10 02:03:07 INFO  Main:45 - Create the list of books.
+2020-10-10 02:03:07 INFO  Main:49 - Create the DAO.
+2020-10-10 02:03:07 INFO  Main:52 - BookDAOModel
+Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell']
+Book [id = 12, year = 1940, pages = 600, title = 'The_Lord_of_the_Rings', author='R_R_Tolkien']
+Book [id = 11, year = 1950, pages = 596, title = 'The_Great_Gatsby', author='Scott_Fitzgerald']
+Book [id = 15, year = 1962, pages = 632, title = 'Lord_of_the_Flies', author='William_Golding']
+Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']
+Book [id = 11, year = 1936, pages = 165, title = 'Gone_with_the_Wind', author='Margaret_Mitchell']
+Book [id = 912, year = 1956, pages = 265, title = 'Lolita', author='Vladimir_Nabokov']
+
+2020-10-10 02:03:07 INFO  Main:55 - Sort by year
+2020-10-10 02:03:07 INFO  Main:57 - BookDAOModel
+Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell']
+Book [id = 12, year = 1940, pages = 600, title = 'The_Lord_of_the_Rings', author='R_R_Tolkien']
+Book [id = 11, year = 1950, pages = 596, title = 'The_Great_Gatsby', author='Scott_Fitzgerald']
+Book [id = 15, year = 1962, pages = 632, title = 'Lord_of_the_Flies', author='William_Golding']
+Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']
+Book [id = 11, year = 1936, pages = 165, title = 'Gone_with_the_Wind', author='Margaret_Mitchell']
+Book [id = 912, year = 1956, pages = 265, title = 'Lolita', author='Vladimir_Nabokov']
+
+2020-10-10 02:03:07 INFO  Main:60 - Search by author.
+2020-10-10 02:03:07 INFO  Main:62 - [Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell'], Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']]
+2020-10-10 02:03:59 INFO  Main:34 - Start the program.
+2020-10-10 02:03:59 INFO  Main:39 - Read: bookData.txt
+2020-10-10 02:03:59 INFO  Main:42 - Create the list of books.
+2020-10-10 02:03:59 INFO  Main:46 - Create the DAO.
+2020-10-10 02:03:59 INFO  Main:49 - BookDAOModel
+Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell']
+Book [id = 12, year = 1940, pages = 600, title = 'The_Lord_of_the_Rings', author='R_R_Tolkien']
+Book [id = 11, year = 1950, pages = 596, title = 'The_Great_Gatsby', author='Scott_Fitzgerald']
+Book [id = 15, year = 1962, pages = 632, title = 'Lord_of_the_Flies', author='William_Golding']
+Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']
+Book [id = 11, year = 1936, pages = 165, title = 'Gone_with_the_Wind', author='Margaret_Mitchell']
+Book [id = 912, year = 1956, pages = 265, title = 'Lolita', author='Vladimir_Nabokov']
+
+2020-10-10 02:03:59 INFO  Main:52 - Sort by year
+2020-10-10 02:03:59 INFO  Main:54 - BookDAOModel
+Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell']
+Book [id = 12, year = 1940, pages = 600, title = 'The_Lord_of_the_Rings', author='R_R_Tolkien']
+Book [id = 11, year = 1950, pages = 596, title = 'The_Great_Gatsby', author='Scott_Fitzgerald']
+Book [id = 15, year = 1962, pages = 632, title = 'Lord_of_the_Flies', author='William_Golding']
+Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']
+Book [id = 11, year = 1936, pages = 165, title = 'Gone_with_the_Wind', author='Margaret_Mitchell']
+Book [id = 912, year = 1956, pages = 265, title = 'Lolita', author='Vladimir_Nabokov']
+
+2020-10-10 02:03:59 INFO  Main:57 - Search by author.
+2020-10-10 02:03:59 INFO  Main:59 - [Book [id = 1226, year = 1990, pages = 300, title = '1984', author='George_Orwell'], Book [id = 16, year = 1962, pages = 693, title = 'Animal_Farm', author='George_Orwell']]
